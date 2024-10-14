@@ -55,10 +55,10 @@ Affiliations:
 - Cibicidoides wuellerstorfi and Globobulimina were picked from the samples and analyzed at the Keyworth BGS's Stable Isotope laboratories.
 - Additional stable isotope measurements were sourced from Garrido et al. (in review), Graham et al. (1981), and Reyes-Macaya et al. (in preparation).
 - The dataset that includes all the stable isotope Analysis is in this repository under the name "Stable Isotope Dataset SEP Carbon Gradient" in .csv format. You will use this file in the Python code (Jupyter Notebook).
-- "Supplementary Table 3" is the same dataset but in .xlsx format. This dataset is attached to the main article and also can be found in PANGAEA repository (not yet).
+- "Supplementary Table 3" is the same dataset but in .xlsx format. This dataset is attached to the main article (where it is referred to as Table S3) and can also be found in the PANGAEA repository (not yet).
 
 ### Data Analysis
-- The scripts to perform the statistical analysis of our stable isotope data are in this repository under the name "Carbon Gradient Analysis.ipynb" (Jupyter Notebook), when using the file "Stable Isotope Dataset SEP Carbon Gradient.csv", be aware that this must be in the same environment (folder) than the code file. 
+- The scripts to perform the statistical analysis of our stable isotope data are in this repository under the name "Carbon Gradient Analysis.ipynb" (Jupyter Notebook); when using the file "Stable Isotope Dataset SEP Carbon Gradient.csv", be aware that this must be in the same environment (folder) than the code file. 
 - Regression Analysis was performed to find the best fit between the carbon isotopic composition difference between C. wuellerstorfi and Globobulimina species and bottom water dissolved oxygen concentrations (BWDO).
 - Principal component analysis (PCA) and Spearman heatmaps were performed.  
 
