@@ -25,12 +25,38 @@ The difference between the carbon isotopic composition between the calcareous te
 Affiliations:
 
 <sup>1</sup> Lyell Centre, Heriot-Watt University, Edinburgh, UK
+
 <sup>2</sup> ANID - Millennium Science Initiative Program Nucleo Milenio UPWELL, La Serena, Chile
+
 <sup>3</sup> MARUM – Center for Marine Environmental Sciences, University of Bremen, Bremen, Germany
+
 <sup>4</sup> Université d'Angers, Nantes Université, Le Mans Université, CNRS, Laboratoire de Planétologie et Géosciences, LPG UMR 6112, Angers, France 
+
 <sup>5</sup> Escuela de Diseño, Pontificia Universidad Católica de Chile, Santiago, Chile
+
 <sup>6</sup> PAGES - University of Bern, Bern, Switzerland
+
 <sup>7</sup> Universidad Peruana Cayetano Heredia (UPCH), Lima, Perú
+
 <sup>8</sup> J’EAI-CHARISMA (UMNG-Colombia; UCM-Chile; UCH-Chile; UPCH-Peru; IGM-Peru; IRD-France)
+
 <sup>9</sup> Departamento de Geografía, Universidad de Chile, Santiago, Chile
+
 <sup>10</sup> Stable Isotope Facility – Centre for Environmental Geochemistry, British Geological Survey, Keyworth, UK
+
+
+## Research's Data and Methods
+
+### Samples
+- Our data comes from the Southeast Pacific between 4°N and 50°S along the continental margin of Chile and Peru, at depths ranging from 124 to 3,390 m. 
+- Sampling methods included Multicorer,  Petersen grab, and gravity core through the cruises (SONNE 156, SONNE 211, SONNE 161, Meteor 92, USNS Eltanin).
+
+### Specimens and Stable Isotope analyses
+- Cibicidoides wuellerstorfi and Globobulimina were picked from the samples and analyzed at the Keyworth BGS's Stable Isotope laboratories.
+- Additional stable isotope measurements were sourced from Garrido et al. (in review), Graham et al. (1981), and Reyes-Macaya et al. (in preparation).
+- The dataset that includes all the stable isotope Analysis is in this repository under the name "XXXXXXXXXXXXX".
+
+## Data Analysis
+- The scripts to perform the statistical analysis of our stable isotope data are in this repository under the name "YYYYYYYYYYYYYY."
+- Regression Analysis was performed to find the best fit between the carbon isotopic composition difference between C. wuellerstorfi and Globobulimina species and bottom water dissolved oxygen concentrations (BWDO).
+- Principal component analysis (PCA) and Spearman heatmaps were performed.  
