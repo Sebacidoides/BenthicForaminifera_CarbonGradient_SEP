@@ -49,7 +49,7 @@ Affiliations:
 
 ### Samples
 - Our data comes from the Southeast Pacific between 4°N and 50°S along the continental margin of Chile and Peru, at depths ranging from 124 to 3,390 m. 
-- Sampling methods included Multicorer,  Petersen grab, and gravity core through the cruises (SONNE 156, SONNE 211, SONNE 161, Meteor 92, USNS Eltanin).
+- Sampling methods included Multicorer, Petersen grab, and gravity core through the cruises (SONNE 156, SONNE 211, SONNE 161, Meteor 92, USNS Eltanin).
 
 ### Specimens and Stable Isotope analyses
 - Cibicidoides wuellerstorfi and Globobulimina were picked from the samples and analyzed at the Keyworth BGS's Stable Isotope laboratories.
@@ -60,3 +60,18 @@ Affiliations:
 - The scripts to perform the statistical analysis of our stable isotope data are in this repository under the name "YYYYYYYYYYYYYY."
 - Regression Analysis was performed to find the best fit between the carbon isotopic composition difference between C. wuellerstorfi and Globobulimina species and bottom water dissolved oxygen concentrations (BWDO).
 - Principal component analysis (PCA) and Spearman heatmaps were performed.  
+
+## Declaration of generative AI and AI-assisted technologies 
+
+### Declaration of generative AI and AI-assisted technologies in the writing process
+- During the preparation of this work, the author(s) used Grammarly and ChatGPT to improve language and grammar. After using this tool/service, the author(s) reviewed and edited the content as needed and take(s) full responsibility for the publication's content.  
+### Declaration of generative AI and AI-assisted technologies in the code preparation process
+- During the preparation of this work, the author(s) used ChatGPT Model 4 and Model 4o to assist, check, and improve code writing. After using this tool/service, the author(s) reviewed and edited the content as needed and take(s) full responsibility for the publication's content.  
+
+## References
+
+Garrido, S., Hoogakker, B., Richirt, J., Reyes-Macaya, D., Hernández-Almeida, I., Cardich, J., Castillo-Bruna, A., Fouet, M. P. A., Gayo, E. M., Hebbeln, D., Farías, L., and Jorissen, F.: A species-specific approach to benthic foraminifera pore patterns as a paleoxygenation proxy in the Southeast Pacific (in review), Earth and Planetary Science Letters , n.d.
+
+Graham, D. W., Corliss, B. H., Bender, M. L., and Keigwin, L. D.: Carbon and oxygen isotopic disequilibria of recent deep-sea benthic foraminifera, Mar Micropaleontol, 6, 483–497, https://doi.org/10.1016/0377-8398(81)90018-9, 1981.
+
+Reyes-Macaya, D., Hoogakker, B., Garrido, S., Paoloni, T., Hebbeln, D., Mohtadi, M., Kuh-ner, H., MartínezFontaine, C., Michel, E., Tapia, R., Martínez-Méndez, Davis, C., Bird, C., Glock, N., Krause, S., Erdem, Z., Aguilera, V., Gayo, E., McCorkle, D. C., Holder, A., Santamaria, P., Troncoso-Ojeda, R., De Pol Holz, R., Cardich, J., Vargas, C. A., Marchant, M., Tavera, L., Floras, E., Schmiedl, G., Thomsen, E., Yokoyama, Y., Muñoz, P., Lückge, A., Castillo-Bruna, A., Ingle, J., and Hromic, T.: Carbon and oxygen isotopes in modern Southeast Pacific Benthic Foraminifera: Paleoceanographic implications, Paleoceanography (in prep.), 2023.
