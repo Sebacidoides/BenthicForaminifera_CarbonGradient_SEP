@@ -69,7 +69,7 @@ Affiliations:
 - During the preparation of this work, the author(s) used ChatGPT Model 4 and Model 4o to assist, check, and improve code writing. After using this tool/service, the author(s) reviewed and edited the content as needed and take(s) full responsibility for the publication's content.
 ## References
 
-Garrido, S., Hoogakker, B., Richirt, J., Reyes-Macaya, D., Hernández-Almeida, I., Cardich, J., Castillo-Bruna, A., Fouet, M. P. A., Gayo, E. M., Hebbeln, D., Farías, L., and Jorissen, F.: A species-specific approach to benthic foraminifera pore patterns as a paleoxygenation proxy in the Southeast Pacific (in review), Earth and Planetary Science Letters , n.d.
+Garrido, S., Hoogakker, B., Richirt, J., Reyes-Macaya, D., Hernández-Almeida, I., Cardich, J., Castillo-Bruna, A., Fouet, M. P. A., Gayo, E. M., Hebbeln, D., Farías, L., and Jorissen, F.: A species-specific approach to benthic foraminifera pore patterns as a paleoxygenation proxy in the Southeast Pacific (in review), Paleoceanography and Paleoclimatology.
 
 Graham, D. W., Corliss, B. H., Bender, M. L., and Keigwin, L. D.: Carbon and oxygen isotopic disequilibria of recent deep-sea benthic foraminifera, Mar Micropaleontol, 6, 483–497, https://doi.org/10.1016/0377-8398(81)90018-9, 1981.
 
