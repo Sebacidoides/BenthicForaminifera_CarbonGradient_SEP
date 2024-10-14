@@ -57,7 +57,7 @@ Affiliations:
 - The dataset that includes all the stable isotope Analysis is in this repository under the name "Stable Isotope Dataset SEP Carbon Gradient", in .xlsx and .csv format.
 
 ### Data Analysis
-- The scripts to perform the statistical analysis of our stable isotope data are in this repository under the name "YYYYYYYYYYYYYY", when using the file "Stable Isotope Dataset SEP Carbon Gradient.csv", be aware that this must be in the same environment (folder) than the code file. 
+- The scripts to perform the statistical analysis of our stable isotope data are in this repository under the name "Carbon Gradient Analysis.ipynb" (Jupyter Notebook), when using the file "Stable Isotope Dataset SEP Carbon Gradient.csv", be aware that this must be in the same environment (folder) than the code file. 
 - Regression Analysis was performed to find the best fit between the carbon isotopic composition difference between C. wuellerstorfi and Globobulimina species and bottom water dissolved oxygen concentrations (BWDO).
 - Principal component analysis (PCA) and Spearman heatmaps were performed.  
 
