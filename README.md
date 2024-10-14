@@ -54,7 +54,7 @@ Affiliations:
 ### Specimens and Stable Isotope analyses
 - Cibicidoides wuellerstorfi and Globobulimina were picked from the samples and analyzed at the Keyworth BGS's Stable Isotope laboratories.
 - Additional stable isotope measurements were sourced from Garrido et al. (in review), Graham et al. (1981), and Reyes-Macaya et al. (in preparation).
-- The dataset that includes all the stable isotope Analysis is in this repository under the name "Stable Isotope Dataset SEP Carbon Gradient", in .xlsx and .csv format.
+- The dataset that includes all the stable isotope Analysis is in this repository under the name "Stable Isotope Dataset SEP Carbon Gradient" in .csv format. This is the file you will use in the Python code (Jupyter Notebook).
 
 ### Data Analysis
 - The scripts to perform the statistical analysis of our stable isotope data are in this repository under the name "Carbon Gradient Analysis.ipynb" (Jupyter Notebook), when using the file "Stable Isotope Dataset SEP Carbon Gradient.csv", be aware that this must be in the same environment (folder) than the code file. 
