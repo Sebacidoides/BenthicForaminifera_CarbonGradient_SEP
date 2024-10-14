@@ -56,7 +56,7 @@ Affiliations:
 - Additional stable isotope measurements were sourced from Garrido et al. (in review), Graham et al. (1981), and Reyes-Macaya et al. (in preparation).
 - The dataset that includes all the stable isotope Analysis is in this repository under the name "XXXXXXXXXXXXX".
 
-## Data Analysis
+### Data Analysis
 - The scripts to perform the statistical analysis of our stable isotope data are in this repository under the name "YYYYYYYYYYYYYY."
 - Regression Analysis was performed to find the best fit between the carbon isotopic composition difference between C. wuellerstorfi and Globobulimina species and bottom water dissolved oxygen concentrations (BWDO).
 - Principal component analysis (PCA) and Spearman heatmaps were performed.  
